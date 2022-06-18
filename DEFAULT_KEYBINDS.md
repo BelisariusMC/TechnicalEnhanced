@@ -8,16 +8,16 @@ To see all the keybinds for Tweakeroo and Litematica, use their in-game menu.
 | L-Ctrl | Sneak | Minecraft |
 | L-Shift | Sprint | Minecraft |
 | TAB | Inventory | Minecraft |
-| e | List Players | Minecraft |
-| c | Zoom | Tweakeroo |
+| E | List Players | Minecraft |
+| C | Zoom | Tweakeroo |
 | \` | Switches to the effective tool for the targeted block | Tweakeroo |
-| n |  Swap between elytra and chestplate | Tweakeroo |
-| y | Reveal ghost blocks | AntiGhost |
-| h | MiniHUD | MiniHUD |
+| N |  Swap between elytra and chestplate | Tweakeroo |
+| Y | Reveal ghost blocks | AntiGhost |
+| H | MiniHUD | MiniHUD |
 | F7 | Light overlay | MiniHUD |
 | M | Litematica menu | Litematica |
-| x + c | Tweakeroo menu | Tweakeroo |
+| X + C | Tweakeroo menu | Tweakeroo |
 | \+ | New waypoint | Xaero's Minimap |
-| u | Waypoint menu | Xaero's Minimap |
+| U | Waypoint menu | Xaero's Minimap |
 | . | Open world map | Xaero's World Map |
 | I | Shaders menu | Iris |
