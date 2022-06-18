@@ -17,6 +17,8 @@ To see all the keybinds for Tweakeroo and Litematica, use their in-game menu.
 | F7 | Light overlay | MiniHUD |
 | M | Litematica menu | Litematica |
 | X + C | Tweakeroo menu | Tweakeroo |
+| J | Area selection | Isometric Renders |
+| Sneak + J | Cancel area selection | Isometric Renders |
 | \+ | New waypoint | Xaero's Minimap |
 | U | Waypoint menu | Xaero's Minimap |
 | . | Open world map | Xaero's World Map |
