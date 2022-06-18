@@ -17,6 +17,9 @@ Help is provided by:
 * [Default Keybinds](DEFAULT_KEYBINDS.md)
 * [Issues](https://github.com/BelisariusMC/TechnicalEnhanced/issues) (mod suggestions, bug reports)
 
+Notes:
+* The client uses Starlight mod for improving the light engine performance, but the server side uses Phosphor so light supressors can work
+
 ## Patch Notes
 
 ## Disclaimers
