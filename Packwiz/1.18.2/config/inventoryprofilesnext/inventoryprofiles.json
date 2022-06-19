@@ -1,0 +1,20 @@
+{
+    "ModSettings": {
+        "enable_updates_check": false,
+        "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
+    "AutoRefillSettings": {
+        "ignore_locked_slots": false,
+        "refill_armor": false,
+        "refill_before_tool_break": false,
+        "tool_damage_threshold": 1,
+        "audio_durability_notification": false,
+        "number_of_notifications": 1,
+        "visual_replace_success_notification": false,
+        "type_visual_replace_success_notification": "CHAT",
+        "type_visual_replace_failed_notification": "CHAT"
+    }
+}

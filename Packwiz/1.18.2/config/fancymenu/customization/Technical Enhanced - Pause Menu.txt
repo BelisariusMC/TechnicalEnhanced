@@ -1,0 +1,115 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_433
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -118
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -42
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  action = setbuttonlabel
+  value = Options
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = -68
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -93
+}
+
+customization {
+  identifier = %id=398318%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -68
+}
+
+customization {
+  identifier = %id=398318%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -17
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = -93
+}
+

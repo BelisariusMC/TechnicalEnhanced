@@ -1,0 +1,8 @@
+type = panorama
+
+panorama-meta {
+  name = Better 1.18
+  speed = 1
+  fov = 85.0
+  angle = 25.0
+}

@@ -1,0 +1,129 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = Better 1.18
+  action = setbackgroundpanorama
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-centered
+  x = 80
+  action = movebutton
+  y = -15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -39
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = Options
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = -39
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  orientation = bottom-right
+  shadow = false
+  x = -120
+  actionid = f38217c7-748c-44c3-90fc-ac939cca844a1639236046818
+  action = addtext
+  y = -23
+  scale = 1.0
+  alignment = left
+  value = Modded by BelisariusMC.
+}
+
+customization {
+  path = resourcepacks/Graphics/icon.png
+  orientation = bottom-right
+  x = -132
+  width = 10
+  action = addtexture
+  actionid = 56f3f563-8ebf-4b38-ab0e-2f5fd7f3f8b81655421033761
+  y = -24
+  height = 10
+}
+
+customization {
+  path = resourcepacks/Graphics/title.png
+  orientation = top-centered
+  x = -183
+  width = 367
+  action = addtexture
+  actionid = a11f1d75-11ed-40a2-a9ad-c69828f591881655421072820
+  y = 31
+  height = 100
+}
+

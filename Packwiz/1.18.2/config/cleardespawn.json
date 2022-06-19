@@ -1,0 +1,18 @@
+{
+  "cleardespawn.config.despawntime": {
+    "key": "Time until dropped items despawn",
+    "toolTip": "cleardespawn.config.tt.despawntime",
+    "value": 6000,
+    "defaultValue": 6000,
+    "minValue": 0,
+    "maxValue": 36000
+  },
+  "cleardespawn.config.timeleft": {
+    "key": "Blink start time, in seconds",
+    "toolTip": "cleardespawn.config.tt.timeleft",
+    "value": 30,
+    "defaultValue": 20,
+    "minValue": 0,
+    "maxValue": 300
+  }
+}

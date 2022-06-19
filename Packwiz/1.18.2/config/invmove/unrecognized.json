@@ -1,0 +1,10 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "fi.dy.masa.litematica.gui.GuiMainMenu": true,
+    "fi.dy.masa.tweakeroo.gui.GuiConfigs": true,
+    "fi.dy.masa.litematica.gui.GuiConfigs": true,
+    "fi.dy.masa.litematica.gui.GuiRenderLayer": true
+  },
+  "hideBackground": {}
+}
